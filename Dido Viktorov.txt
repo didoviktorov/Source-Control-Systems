@@ -1,2 +1,5 @@
-Hello, my name is.. what?
-And i am a just starting developer.
+<!doctype>
+<html>
+	Hello, my name is.. what?
+	And i am a just starting developer.
+</html>
